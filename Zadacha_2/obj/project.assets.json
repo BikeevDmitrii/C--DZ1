@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Suadmin\\Desktop\\GeekBrains\\C#\\DZ_1\\DZ_1.csproj",
+      "projectUniqueName": "C:\\Users\\Suadmin\\Desktop\\GeekBrains\\C#\\DZ_1\\Zadacha_2\\DZ_1.csproj",
       "projectName": "DZ_1",
-      "projectPath": "C:\\Users\\Suadmin\\Desktop\\GeekBrains\\C#\\DZ_1\\DZ_1.csproj",
+      "projectPath": "C:\\Users\\Suadmin\\Desktop\\GeekBrains\\C#\\DZ_1\\Zadacha_2\\DZ_1.csproj",
       "packagesPath": "C:\\Users\\Suadmin\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Suadmin\\Desktop\\GeekBrains\\C#\\DZ_1\\obj\\",
+      "outputPath": "C:\\Users\\Suadmin\\Desktop\\GeekBrains\\C#\\DZ_1\\Zadacha_2\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Suadmin\\AppData\\Roaming\\NuGet\\NuGet.Config"
